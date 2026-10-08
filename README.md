@@ -1,3 +1,4 @@
+
 # 📸 Snap & Study — Your AI Study Buddy
 
 ## About the Project
@@ -107,3 +108,7 @@ Thanks to the developers of Streamlit and Google Gemini for providing tools that
 ---
 
 **Snap & Study — Snap a question, understand the concept, and keep learning! 📚**
+=======
+# snap-study
+Gen-AI based study companion using gemini api to analysis the image and support studying.
+
